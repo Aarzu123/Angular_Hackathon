@@ -1,0 +1,40 @@
+{
+  "Details": [
+    {
+      "name": "Rishi",
+      "password": "rishi123$",
+      "address": "Hyderabad",
+      "email": "rishiyadhav@gmail.com",
+      "accountNo": 6759,
+      "mobileNo": "7623467146",
+      "id": 1
+    },
+    {
+      "name": "Aarzu",
+      "password": "aim123$",
+      "address": "Pune",
+      "email": "arzumulla786@gmail.com",
+      "accountNo": 6753,
+      "mobileNo": "7865412349",
+      "id": 2
+    },
+    {
+      "name": "Akshada",
+      "password": "akku123$",
+      "address": "Nashik",
+      "email": "akshada67@gmail.com",
+      "accountNo": 678,
+      "mobileNo": "7878901234",
+      "id": 3
+    },
+    {
+      "name": "Somya",
+      "password": "sim123$",
+      "address": "pune",
+      "email": "atty@gmail.com",
+      "accountNo": 6774,
+      "mobileNo": "8664512356",
+      "id": 4
+    }
+  ]
+}

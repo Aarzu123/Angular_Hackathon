@@ -1,0 +1,19 @@
+.registeration-form
+{
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+    align-content: center;
+}
+.register-container
+{
+    background-image: url(../../assets/register.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title
+{
+    padding: 2%;
+}

@@ -1,0 +1,35 @@
+.home-page
+{
+    background-image: url(../../assets/home_page.jpg);
+    background-size: cover;
+    color: antiquewhite;
+    height: 100%;
+    width: 100%;
+}
+.tm-hero-title
+{
+    text-align: center;
+    padding-top: 20%;
+    font-size: xx-large;
+}
+.tm-hero-subtitle
+{
+    text-align: center;
+    font-size: large;
+}
+.link
+{
+    color: antiquewhite;
+    margin: 20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.list-container
+{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: right;
+
+}

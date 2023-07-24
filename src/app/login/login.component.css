@@ -1,0 +1,32 @@
+.login-form
+{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    padding-top: 10%;
+    padding-left: 40%;
+    align-items: center;
+    text-align: center;
+}
+.login-container
+{
+    background-image: url(../../assets/login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.title
+{
+    color:aliceblue;
+}
+.hyper-link
+{
+    color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-left: 40%;
+    text-decoration: none;
+}
